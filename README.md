@@ -22,14 +22,13 @@
 -  **Looking to collaborate on**: Web3, blockchain, and full-stack projects involving cutting-edge technologies.
 -  **Fun fact**: I don't like to code 😉.
 
----
+
 
 ### Projects & Interests
 - **Frontend Development**: Built multiple **React** and **TypeScript** projects focusing on UI/UX.
 - **Web3 Projects**: Developed dApps using **Web3.js** and **ethers.js**.
 - **Creative Development**: Passionate about **GSAP**, **Three.js**, and **Tailwind CSS** for dynamic web experiences.
 
----
 
 ### Technologies & Tools
 <p align="start">
@@ -37,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
 </p>
+
+---
 
 <p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
