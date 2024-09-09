@@ -19,7 +19,7 @@
 - 🌱 **I’m currently learning**: Smart contract development, DEX platforms, and exploring blockchain use cases.
 - 💼 **Looking to collaborate on**: Projects related to Injective, DeFi, or other blockchain-based solutions.
 - 📫 **Reach me**: [Contact via X](https://x.com/IgnisMeow)
-- ⚡ **Fun fact**: I have a cat named Satoshi 🐱 who enjoys sitting on my keyboard while I code.
+- ⚡ **Fun fact**: I don't like to code 😉
 
 ---
 
@@ -39,10 +39,9 @@
 
 ### 📚 Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Typescript-363636?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Web3.js-363636?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Hardhat-333333?style=for-the-badge&logo=hardhat&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Injective-blue?style=for-the-badge&logo=injectiveprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
