@@ -13,6 +13,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
+</p>
+
 ---
 
 ### 🙋‍♂️ About Me
@@ -34,14 +38,14 @@
 ---
 
 ### 📚 Technologies & Tools
-<p align="center" gap="200px">
+<p align="center">
   <!-- Languages Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<p align="center" gap="20px">
+<p align="center">
   <!-- Frameworks/Tools Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
