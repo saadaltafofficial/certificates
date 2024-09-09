@@ -35,16 +35,16 @@
 
 ### 📚 Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-F16822?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=greensock&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/logo=python&logoColor=white"/>
 </p>
 
 ---
