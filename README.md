@@ -48,8 +48,6 @@
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
 </p>
@@ -62,7 +60,6 @@
   <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
-<p align="center">😄 Pronouns: He/him</p>
 
 ---
 
