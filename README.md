@@ -9,28 +9,28 @@
 
 ---
 
-### 🙋‍♂️ About Me
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
 </p>
 
-- 👀 **I’m interested in**: Blockchain technology, DeFi, Web3, and the latest frontend technologies.
-- 💻 **Frontend Stack**: Proficient in **React**, **JavaScript**, and **TypeScript**. Exploring **Tailwind CSS**, **GSAP**, and **Three.js**.
-- 🌱 **Backend & DevOps**: Experience with **MongoDB**, **Docker**, and blockchain nodes.
-- 🌐 **Web3 Experience**: Built **NFT** sites and worked with **smart contracts** and **Web3.js**.
-- 💼 **Looking to collaborate on**: Web3, blockchain, and full-stack projects involving cutting-edge technologies.
-- ⚡ **Fun fact**: I don't like to code 😉.
+### About Me
+-  **I’m interested in**: Blockchain technology, DeFi, Web3, and the latest frontend technologies.
+-  **Frontend Stack**: Proficient in **React**, **JavaScript**, and **TypeScript**. Exploring **Tailwind CSS**, **GSAP**, and **Three.js**.
+-  **Backend & DevOps**: Experience with **MongoDB**, **Docker**, and blockchain nodes.
+-  **Web3 Experience**: Built **NFT** sites and worked with **smart contracts** and **Web3.js**.
+-  **Looking to collaborate on**: Web3, blockchain, and full-stack projects involving cutting-edge technologies.
+-  **Fun fact**: I don't like to code 😉.
 
 ---
 
-### 🚀 Projects & Interests
-- 🌐 **Frontend Development**: Built multiple **React** and **TypeScript** projects focusing on UI/UX.
-- 🧑‍💻 **Web3 Projects**: Developed dApps using **Web3.js** and **ethers.js**.
-- 🎨 **Creative Development**: Passionate about **GSAP**, **Three.js**, and **Tailwind CSS** for dynamic web experiences.
+### Projects & Interests
+- **Frontend Development**: Built multiple **React** and **TypeScript** projects focusing on UI/UX.
+- **Web3 Projects**: Developed dApps using **Web3.js** and **ethers.js**.
+- **Creative Development**: Passionate about **GSAP**, **Three.js**, and **Tailwind CSS** for dynamic web experiences.
 
 ---
 
-### 📚 Technologies & Tools
+### Technologies & Tools
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
@@ -55,7 +55,7 @@
 
 ---
 
-### 🌍 Let's Connect
+### Let's Connect
 <p align="center">
   <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-blue?style=for-the-badge&logo=x"/></a>
   <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
