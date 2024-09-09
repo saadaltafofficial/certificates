@@ -21,7 +21,7 @@
 - 🌱 **Backend & DevOps**: Experience with **MongoDB**, **Docker**, **virtual servers**, and running blockchain nodes.
 - 🌐 **Web3 Experience**: Built **NFT** and **meme sites** for the Web3 community and have hands-on experience with **smart contracts** and **Web3.js**.
 - 💼 **Looking to collaborate on**: Web3, blockchain, and full-stack projects involving cutting-edge technologies.
-- ⚡ **Fun fact**: I have a cat named Satoshi 🐱 who likes to 'help' me code!
+- ⚡ **Fun fact**: I don't like to code 😉
 
 ---
 
@@ -44,6 +44,7 @@
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Python-F16822?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
 ---
@@ -51,7 +52,7 @@
 ### 🌍 Let's Connect
 <p align="center">
   <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-blue?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:ignismeow@example.com"><img src="https://img.shields.io/badge/Email-ignismeow@example.com-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/Email-ignismeow@example.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 <p align="center">😄 Pronouns: He/him</p>
