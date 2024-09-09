@@ -53,6 +53,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
 </p>
 
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats"/>
+</p>
+
 ---
 
 <p align="center">
