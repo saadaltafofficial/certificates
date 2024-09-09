@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm @IgnisMeow</h1>
+<h1 align="start">Hello 👋, I'm @IgnisMeow</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Blockchain%20Enthusiast-blueviolet?style=for-the-badge" alt="Blockchain Enthusiast"/>
