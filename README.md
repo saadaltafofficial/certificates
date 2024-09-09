@@ -54,8 +54,11 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow)](https://github.com/ignismeow/github-readme-stats" alt="Ignismeow's GitHub Stats"/>
+  <a href="https://github.com/ignismeow/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ignismeow" alt="Ignismeow's GitHub Stats" />
+  </a>
 </p>
+
 
 ---
 
