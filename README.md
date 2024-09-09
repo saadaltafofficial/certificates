@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/badge/-Frontend%20Engineer-ff69b4?style=for-the-badge" alt="Frontend Engineer"/>
 </p>
 
----
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
 </p>
