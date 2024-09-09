@@ -34,7 +34,7 @@
 ---
 
 ### 📚 Technologies & Tools
-<p align="center" gap="20px">
+<p align="center" gap="200px">
   <!-- Languages Row -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
