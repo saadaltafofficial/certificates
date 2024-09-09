@@ -54,7 +54,7 @@
 </p>
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow)](https://github.com/anuraghazra/github-readme-stats" alt="Ignismeow's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow)](https://github.com/ignismeow/github-readme-stats" alt="Ignismeow's GitHub Stats"/>
 </p>
 
 ---
