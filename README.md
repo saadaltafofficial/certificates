@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Blockchain%20Enthusiast-blueviolet?style=for-the-badge" alt="Blockchain Enthusiast"/>
   <img src="https://img.shields.io/badge/-Web3%20Explorer-orange?style=for-the-badge" alt="Web3 Explorer"/>
-  <img src="https://img.shields.io/badge/-DeFi%20Advocate-green?style=for-the-badge" alt="DeFi Advocate"/>
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-green?style=for-the-badge" alt="DeFi Advocate"/>
 </p>
 
 ---
