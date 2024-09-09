@@ -40,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" alt="GSAP" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="40" height="40" style="filter: invert(100%); margin-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="40" height="40" style=" margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40" style="margin-right: 10px;"/>
@@ -54,7 +54,7 @@
 ### 🌍 Let's Connect
 <p align="center">
   <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-blue?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/Email-ignismeow@example.com-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-red?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 <p align="center">😄 Pronouns: He/him</p>
