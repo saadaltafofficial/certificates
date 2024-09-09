@@ -35,16 +35,15 @@
 
 ### 📚 Technologies & Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=greensock&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=three.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=web3.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/logo=python&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/greensock/greensock-original.svg" alt="GSAP" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40"/>
 </p>
 
 ---
