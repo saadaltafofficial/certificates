@@ -1,4 +1,4 @@
-<h1 align="start">Hello 👋, I'm @IgnisMeow</h1>
+<h1 align="center">Hello 👋, I'm @IgnisMeow</h1>
 
 
 <p align="center">
