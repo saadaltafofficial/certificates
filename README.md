@@ -10,8 +10,10 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
 </p>
+
+---
 
 ### About Me
 -  **I’m interested in**: Blockchain technology, DeFi, Web3, and the latest frontend technologies.
@@ -50,7 +52,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
 </p>
 
 ---
