@@ -7,17 +7,6 @@
   <img src="https://img.shields.io/badge/-Frontend%20Engineer-ff69b4?style=for-the-badge" alt="Frontend Engineer"/>
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
-</p>
-
----
 
 ### 🙋‍♂️ About Me
 - 👀 **I’m interested in**: Blockchain technology, DeFi, Web3, and the latest in frontend technologies.
@@ -34,6 +23,12 @@
 - 🧑‍💻 **Web3 Projects**: Developed several dApps using **Web3.js** and **ethers.js** for blockchain interaction.
 - 🏗️ **Blockchain Nodes**: Experience running nodes and working with decentralized infrastructures.
 - 🎨 **Creative Development**: Passionate about using **GSAP**, **Three.js**, and **Tailwind CSS** for dynamic and creative web experiences.
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
+</p>
 
 ---
 
@@ -54,6 +49,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40" style="margin-right: 10px;"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
