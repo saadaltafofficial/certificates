@@ -39,7 +39,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://img.icons8.com/color/48/000000/tailwindcss.png" alt="Tailwind CSS" width="40" height="40" style="margin-right: 10px;"/>
-  <img src="https://greensock.com/uploads/monthly_2020_09/greensock-logo.svg.45d2b47a38b5cb121fe03d34bfe01437.svg" alt="GSAP" width="40" height="40" style="margin-right: 10px;"/>
+  <img src="[https://greensock.com/uploads/monthly_2020_09/greensock-logo.svg.45d2b47a38b5cb121fe03d34bfe01437.svg](https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg)" alt="GSAP" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original-wordmark.svg" alt="Three.js" width="40" height="40" style="filter: invert(100%); margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40" style="margin-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="margin-right: 10px;"/>
