@@ -9,10 +9,6 @@
   <img src="https://img.shields.io/badge/-Frontend%20Engineer-FF4500?style=for-the-badge" alt="Frontend Engineer"/> <!-- Tomato red -->
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
-</p>
-
 ---
 
 ### About Me
@@ -51,7 +47,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ignismeow&show_icons=true&theme=radical" alt="Ignismeow's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical" alt="GitHub Streak"/>
 </p>
 
 ---
