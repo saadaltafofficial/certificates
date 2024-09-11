@@ -47,7 +47,8 @@
 ---
 
 <p align="center" bg-[#0c1118]>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&theme=radical&bg_color=0c1118" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ignismeow&hide_border=true&background=0c1118&stroke=ffffff&ring=ff4b4b&fire=ff4b4b&currStreakLabel=ffffff&currStreakNum=ffffff
+)" alt="GitHub Streak"/>
 </p>
 
 ---
