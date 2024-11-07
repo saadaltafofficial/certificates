@@ -48,12 +48,6 @@
 
 ---
 
-<p align="center" bg-[#0c1118]>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saadaltafofficial&theme=radical&background=0c1118" alt="GitHub Streak"/>
-</p>
-
----
-
 <p align="center">
   <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-FF4500?style=for-the-badge&logo=x"/></a>
   <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-FFD700?style=for-the-badge&logo=gmail"/></a>
