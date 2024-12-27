@@ -1,8 +1,7 @@
-<h1 align="center">
-   Saad Altaf(Developer)
+<h1 align="left">
+   Saad Altaf (Developer)
 </h1>
 
----
 
 ### About Me
 -  **I’m interested in**: Blockchain technology, DeFi, Web3, and the latest frontend technologies.
