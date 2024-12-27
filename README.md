@@ -35,10 +35,10 @@
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
-<h2>Socials</h2>
+<h2></h2>
 
 <p align="center" style="color: white; text-decoration: none;">
-   <a href="https://x.com/IgnisMeow" style="color: white; text-decoration: none; margin: 0 10px;">X</a>
-   <a href="https://t.me/ignismeow" style="color: white; text-decoration: none; margin: 0 10px;">Telegram</a>
-   <a href="https://www.linkedin.com/in/osaadaltaf/" style="color: white; text-decoration: none; margin: 0 10px;">LinkedIn</a>
+   <a href="https://x.com/IgnisMeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">X</a>
+   <a href="https://t.me/ignismeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">Telegram</a>
+   <a href="https://www.linkedin.com/in/osaadaltaf/" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">LinkedIn</a>
 </p>
