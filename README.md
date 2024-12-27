@@ -37,8 +37,8 @@
 
 ---
 
-<p align="center">
-  <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-FF4500?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-FFD700?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://t.me/ignismeow"><img src="https://img.shields.io/badge/Telegram-@ignismeow-FF4500?style=for-the-badge&logo=telegram"/></a>
+<p align="center color-white">
+  <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-0c1118?style=for-the-badge&logo=x"/></a>
+  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-0c1118?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://t.me/ignismeow"><img src="https://img.shields.io/badge/Telegram-@ignismeow-0c1118?style=for-the-badge&logo=telegram"/></a>
 </p>
