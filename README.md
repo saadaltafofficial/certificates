@@ -37,7 +37,7 @@
 
 <h2>Socials</h2>
 
-<p align="center color-white">
+<p align="center color-white outline:none">
    <a href="https://x.com/IgnisMeow">X</a>
    <a href="https://t.me/ignismeow">Telegram</a>
    <a href="https://www.linkedin.com/in/osaadaltaf/">LinkedIn</a>
