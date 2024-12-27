@@ -1,14 +1,6 @@
-<div align='center'>
-<p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF4500&lines=Hello%2C+I'm+Saad+Altaf%F0%9F%91%8B;Frontend+Developer" alt="Typing SVG" /></a>
-</p>
-</div>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-Frontend%20Engineer-FF4500?style=for-the-badge" alt="Frontend Engineer"/> <!-- Tomato red -->
-  <img src="https://img.shields.io/badge/-Blockchain%20Enthusiast-FFD700?style=for-the-badge" alt="Blockchain Enthusiast"/> <!-- Green for the bandana -->
-  <img src="https://img.shields.io/badge/-Web3%20Explorer-FF4500?style=for-the-badge" alt="Web3 Explorer"/> <!-- Fiery orange for Web3 Explorer -->
-</p>
+<h1 align="center">
+   Saad Altaf(Developer)
+</h1>
 
 ---
 
