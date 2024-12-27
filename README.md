@@ -37,8 +37,8 @@
 
 <h2>Socials</h2>
 
-<p align="center color-white outline:none">
-   <a href="https://x.com/IgnisMeow">X</a>
-   <a href="https://t.me/ignismeow">Telegram</a>
-   <a href="https://www.linkedin.com/in/osaadaltaf/">LinkedIn</a>
+<p style="text-align: center; color: white;">
+  <a href="https://x.com/IgnisMeow" style="text-decoration: none; color: white; margin: 0 10px;">X</a>
+  <a href="https://t.me/ignismeow" style="text-decoration: none; color: white; margin: 0 10px;">Telegram</a>
+  <a href="https://www.linkedin.com/in/osaadaltaf/" style="text-decoration: none; color: white; margin: 0 10px;">LinkedIn</a>
 </p>
