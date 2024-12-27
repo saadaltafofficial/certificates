@@ -35,10 +35,10 @@
   <img src="https://cryptologos.cc/logos/ethereum-eth-logo.svg?v=024" alt="Web3.js" width="40" height="40" style="margin-right: 10px;"/>
 </p>
 
----
+<h2>Socials</h2>
 
 <p align="center color-white">
-  <a href="https://x.com/IgnisMeow"><img src="https://img.shields.io/badge/X-@IgnisMeow-0c1118?style=for-the-badge&logo=x"/></a>
-  <a href="mailto:ignismeowofficial@gmail.com"><img src="https://img.shields.io/badge/ignismeowofficial@gmail.com-0c1118?style=for-the-badge&logo=gmail"/></a>
-  <a href="https://t.me/ignismeow"><img src="https://img.shields.io/badge/Telegram-@ignismeow-0c1118?style=for-the-badge&logo=telegram"/></a>
+   <a href="https://x.com/IgnisMeow">X</a>
+   <a href="https://t.me/ignismeow">Telegram</a>
+   <a href="https://www.linkedin.com/in/osaadaltaf/">LinkedIn</a>
 </p>
