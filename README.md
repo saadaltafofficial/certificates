@@ -38,7 +38,7 @@
 <h2></h2>
 
 <p align="left" style="color: white; text-decoration: none; display: flex; gap: 15px;">
-   <a href="https://x.com/IgnisMeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">X</a>
-   <a href="https://t.me/ignismeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">Telegram</a>
-   <a href="https://www.linkedin.com/in/osaadaltaf/" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">LinkedIn</a>
+   <h3><a href="https://x.com/IgnisMeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">X</a></h3>
+   <h3><a href="https://t.me/ignismeow" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">Telegram</a></h3>
+   <h3><a href="https://www.linkedin.com/in/osaadaltaf/" style="color: white; underline:none; text-decoration: none; margin: 0 10px;">LinkedIn</a></h3>
 </p>
