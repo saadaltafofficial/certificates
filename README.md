@@ -14,3 +14,12 @@
   </a>
 </p>
 
+# Learn to Code in Python from Scrimba
+
+<p align="center">
+  <a href="https://www.boot.dev/certificates/2ea02634-4609-489f-ac17-4a55e954c87a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/adc95cec-dcc6-4480-af8b-c809d83fe64e" alt="My Image" style="max-width: 100%; width: 800px;" />
+  </a>
+</p>
+
+
