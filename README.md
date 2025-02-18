@@ -6,6 +6,7 @@
   </a>
 </p>
 
+
 # Learn to Code in Python from Boot.Dev
 
 <p align="center">
@@ -14,6 +15,7 @@
   </a>
 </p>
 
+
 # Learn Linux from Boot.Dev
 
 <p align="center">
@@ -21,6 +23,7 @@
     <img src="https://github.com/user-attachments/assets/adc95cec-dcc6-4480-af8b-c809d83fe64e" alt="My Image" style="max-width: 100%; width: 800px;" />
   </a>
 </p>
+
 
 # Learn Git from Boot.Dev
 
