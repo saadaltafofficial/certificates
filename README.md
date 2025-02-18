@@ -6,7 +6,7 @@
   </a>
 </p>
 
-# Learn to Code in Python from Scrimba
+# Learn to Code in Python from Boot.Dev
 
 <p align="center">
   <a href="https://www.boot.dev/certificates/6f600a3e-d012-4cbe-9747-a56673bad648" target="_blank">
@@ -14,10 +14,18 @@
   </a>
 </p>
 
-# Learn to Code in Python from Scrimba
+# Learn Linux from Boot.Dev
 
 <p align="center">
   <a href="https://www.boot.dev/certificates/2ea02634-4609-489f-ac17-4a55e954c87a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/adc95cec-dcc6-4480-af8b-c809d83fe64e" alt="My Image" style="max-width: 100%; width: 800px;" />
+  </a>
+</p>
+
+# Learn Git from Boot.Dev
+
+<p align="center">
+  <a href="https://www.boot.dev/certificates/07afbd55-587f-4ed3-af23-042931d0642a" target="_blank">
     <img src="https://github.com/user-attachments/assets/adc95cec-dcc6-4480-af8b-c809d83fe64e" alt="My Image" style="max-width: 100%; width: 800px;" />
   </a>
 </p>
