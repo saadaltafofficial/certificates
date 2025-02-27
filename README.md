@@ -1,4 +1,4 @@
-# Learn Git from Boot.Dev
+# Learn The Frontend Developer Career Path from Scrimba
 
 <p align="center">
   <a href="https://scrimba.com/certificate-cert2uNjfK9m1n3zCRVUZGA8YcyXebhh3W6Uh8U" target="_blank"> 
