@@ -1,3 +1,12 @@
+# Learn Git from Boot.Dev
+
+<p align="center">
+  <a href="https://scrimba.com/certificate-cert2uNjfK9m1n3zCRVUZGA8YcyXebhh3W6Uh8U" target="_blank"> 
+    <img src="https://github.com/user-attachments/assets/24b32ac8-5698-4b32-80b0-2f4f5ed89b63" alt="My Image" style="max-width: 100%; width: 800px;" />
+  </a>
+</p>
+
+
 # Learn JavaScript from Scrimba
 
 <p align="center">
@@ -32,5 +41,4 @@
     <img src="https://github.com/user-attachments/assets/2333894b-df12-446b-9041-356cbafb447c" alt="My Image" style="max-width: 100%; width: 800px;" />
   </a>
 </p>
-
 
