@@ -42,3 +42,11 @@
   </a>
 </p>
 
+
+# CCNA: Introduction to Networks
+
+<p align="center">
+  <a href="https://www.boot.dev/certificates/07afbd55-587f-4ed3-af23-042931d0642a" target="_blank">
+    <img src="https://github.com/user-attachments/assets/2333894b-df12-446b-9041-356cbafb447c" alt="My Image" style="max-width: 100%; width: 800px;" />
+  </a>
+</p>
