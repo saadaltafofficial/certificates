@@ -50,3 +50,11 @@
     <img src="https://github.com/user-attachments/assets/9811036b-d53d-4f4e-87ca-a6cb1b17f843" alt="My Image" style="max-width: 100%; width: 800px;" />
   </a>
 </p>
+
+# CCNA: Python Essentials 1
+
+<p align="center">
+  <a href="https://www.credly.com/badges/38fcf162-329b-4ccf-bb03-e5ffd77cb7ff/public_url" target="_blank">
+    <img width="600" height="600" alt="python-essentials-1 1" src="https://github.com/user-attachments/assets/744f2f92-7cb7-4425-a31f-0762eb2198ff" alt="My Image" style="max-width: 100%; width: 800px;" />  </a>
+</p>
+
